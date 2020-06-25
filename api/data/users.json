@@ -1,0 +1,22 @@
+{
+	"users": [
+		{
+			"id": "cd8f1dde-7563-4704-8743-feafcef1e89a",
+			"nome": "Bruna",
+			"sobrenome": "Alvares",
+			"username": "balvares",
+			"senha": "Umdois@3",
+			"salt": "asdfghj",
+			"datacriacao": "17/06/2020"
+		},
+		{
+			"id": "ce62f18a-83f3-4b49-a39c-8f22d7a5afdb",
+			"nome": "Kaique",
+			"sobrenome": "Cavalcanti",
+			"username": "kcavalcanti",
+			"senha": "Umdois@3",
+			"salt": "qwertyu",
+			"datacriacao": "15/06/2020"
+		}
+	]
+}
